@@ -22,7 +22,7 @@ public class AutopilotDecorator extends FeaturesDecorator {
      */
     //new functionality
     private String autopilot() {
-        return "Autolipot";
+        return "Autopilot";
     }
 
     //Now we use the concrete decorator class created to decorate an interface object.
